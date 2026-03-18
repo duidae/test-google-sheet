@@ -1,0 +1,5 @@
+{
+  "name": "Google Sheet Viewer",
+  "description": "A modern dashboard to visualize data from a specific Google Spreadsheet.",
+  "requestFramePermissions": []
+}
